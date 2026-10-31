@@ -3,7 +3,11 @@
 A hands-on networking lab demonstrating virtual machine (VM) communication, IP configuration, and connectivity testing between a Windows Host and a Kali Linux Virtual Machine using VMware Workstation.
 
 ## 🛠️ Lab Overview
-This project showcases the setup and validation of network interfaces and communication between different operating systems running on a hypervisor. 
+This project showcases the setup and validation of network interfaces and communication between different operating systems running on a hypervisor. <img width="904" height="561" alt="2" src="https://github.com/user-attachments/assets/2ecbfa22-e655-4b4f-93a5-d385fca2b2b2" />
+<img width="1312" height="816" alt="11" src="https://github.com/user-attachments/assets/8e995440-97ec-461c-b1db-d1e640318c38" />
+
+
+
 
 * **Host System:** Windows 10 Pro
 * **Guest Virtual Machine:** Kali Linux
@@ -30,7 +34,6 @@ From the Windows host command prompt, a connectivity test was executed to reach 
 - Utilizing ICMP echo requests (`ping`) to troubleshoot and verify host-to-VM network connectivity.
 
 ---
-*Created by Kashan Rohail*
 
 
 
